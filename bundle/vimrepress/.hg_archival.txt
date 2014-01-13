@@ -1,5 +1,0 @@
-repo: f369d1e74505d69c458f3408d2f24ef7c71fc004
-node: d433c9f4898beb9eabe1a51c18cfe63a0347d7fe
-branch: vimpress-dev
-latesttag: 3.2.0
-latesttagdistance: 11
